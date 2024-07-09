@@ -3,3 +3,5 @@ let add =()=>{
     let b = 4
     console.log(a+b)
 }
+
+add()
