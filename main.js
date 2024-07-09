@@ -16,3 +16,5 @@ let sub =()=>{
 }
 
 sub()
+
+let count = 0
